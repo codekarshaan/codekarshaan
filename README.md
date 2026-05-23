@@ -63,9 +63,5 @@ Computer Science Engineering undergraduate passionate about Full Stack Developme
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bharat613&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer"/>
 </p>
