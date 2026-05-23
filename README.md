@@ -31,3 +31,22 @@ Computer Science Engineering undergraduate passionate about Full Stack Developme
 
 ---
 
+
+---
+
+## ⚙️ Tech Arsenal
+
+<div align="center">
+
+| 🚀 Category | 💻 Technologies |
+| :--- | :--- |
+| **👨‍💻 Languages** | <img src="https://skillicons.dev/icons?i=java,js,python,html,css,sql,c,cpp" height="45"/> |
+| **⚡ Full Stack Development** | <img src="https://skillicons.dev/icons?i=spring,angular,nodejs,express,bootstrap,tailwind" height="45"/> |
+| **🗄️ Databases** | <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" height="45"/> |
+| **📊 Data Science & AI** | <img src="https://skillicons.dev/icons?i=python,tensorflow" height="45"/> &nbsp; <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="35"/> &nbsp; <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="35"/> &nbsp; <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="35"/> |
+| **☁️ Tools & Platforms** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" height="45"/> |
+| **📈 Analytics & Visualization** | <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="35"/> &nbsp; <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="35"/> |
+
+</div>
+
+---
