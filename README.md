@@ -13,6 +13,7 @@
 
 ---
 
+
 ## 🧠 About Me
 
 Computer Science Engineering undergraduate passionate about Full Stack Development, Data Science, and scalable software systems.
@@ -24,6 +25,9 @@ Computer Science Engineering undergraduate passionate about Full Stack Developme
 🚀 Focused on clean architecture, scalable backend systems, and intuitive user experiences
 
 🤖 Currently exploring Cloud Computing, System Design, and advanced software engineering concepts
+
+📧 Email: sushaanmehtaa@gmail.com
+
 
 ---
 
