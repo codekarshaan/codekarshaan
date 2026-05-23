@@ -9,3 +9,21 @@
 
 
 <p align="center"> <strong>India 🇮🇳 | Web Developer & Data Science Enthusiast</strong> </p>
+
+
+---
+
+## 🧠 About Me
+
+Computer Science Engineering undergraduate passionate about Full Stack Development, Data Science, and scalable software systems.
+
+💻 Building modern web applications using Spring Boot, Java, Angular, SQL, JavaScript, HTML & CSS
+
+📊 Data Science Enthusiast exploring AI, Machine Learning, and intelligent systems
+
+🚀 Focused on clean architecture, scalable backend systems, and intuitive user experiences
+
+🤖 Currently exploring Cloud Computing, System Design, and advanced software engineering concepts
+
+---
+
