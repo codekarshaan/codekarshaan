@@ -31,9 +31,6 @@ Computer Science Engineering undergraduate passionate about Full Stack Developme
 
 ---
 
-
----
-
 ## ⚙️ Tech Arsenal
 
 <div align="center">
@@ -51,9 +48,6 @@ Computer Science Engineering undergraduate passionate about Full Stack Developme
 
 ---
 
-
----
-
 ## 💼 Featured Projects
 
 <div align="center">
@@ -63,9 +57,6 @@ Computer Science Engineering undergraduate passionate about Full Stack Developme
 | ⚖️ **JusticeServe** | A full-stack digital judicial management platform designed to modernize and streamline real-world judicial workflows. Features include secure case management, role-based access, hearing scheduling, digital record handling, and an intuitive interface for efficient court operations. | `Java, Spring, Spring Boot, Angular, Bootstrap, SQL` |
 
 </div>
-
----
-
 
 ---
 
